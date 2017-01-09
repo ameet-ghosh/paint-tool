@@ -1,0 +1,15 @@
+{
+  "name": "mk-socket.io",
+  "main": "socket.io-1.3.5.js",
+  "version": "0.1.0",
+  "description": "repo for bower install socket.io",
+  "authors": [
+    "chen jilin"
+  ],
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

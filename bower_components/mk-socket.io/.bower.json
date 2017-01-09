@@ -1,0 +1,22 @@
+{
+  "name": "mk-socket.io",
+  "main": "socket.io-1.3.5.js",
+  "description": "repo for bower install socket.io",
+  "authors": [
+    "chen jilin"
+  ],
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/geometrybase/mk-socket.io",
+  "_release": "32947dabb5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "32947dabb5e1341a67ce06a4ca2c6238d173a54b"
+  },
+  "_source": "https://github.com/geometrybase/mk-socket.io.git",
+  "_target": "*",
+  "_originalSource": "mk-socket.io",
+  "_direct": true
+}
